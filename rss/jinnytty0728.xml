@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@jinnytty0728</id>
+  <title>jinnytty0728 TikTok</title>
+  <updated>2023-11-30T00:41:06+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://h-f-t.github.io/tiktok-rss-flat/rss/jinnytty0728.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://h-f-t.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from jinnytty0728</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jinnytty0728/video/7303863986167057707</id>
+    <title>another dance trend that I can do lol #dance #challenge #fyp #foryou #korean #korea #trend #trendingsong </title>
+    <updated>2023-11-21T10:42:47+00:00</updated>
+    <content>another dance trend that I can do lol #dance #challenge #fyp #foryou #korean #korea #trend #trendingsong </content>
+    <link href="https://tiktok.com/@jinnytty0728/video/7303863986167057707" rel="alternate"/>
+    <published>2023-11-21T10:42:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jinnytty0728/video/7304472925120384302</id>
+    <title>i like it #CapCut #pixar #fyp #foryou #trend #korea #korean </title>
+    <updated>2023-11-23T02:05:46+00:00</updated>
+    <content>i like it #CapCut #pixar #fyp #foryou #trend #korea #korean </content>
+    <link href="https://tiktok.com/@jinnytty0728/video/7304472925120384302" rel="alternate"/>
+    <published>2023-11-23T02:05:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jinnytty0728/video/7306026271832722734</id>
+    <title>I agree  #korean #fyp #trend #filter #foryourpage </title>
+    <updated>2023-11-27T06:33:42+00:00</updated>
+    <content>I agree  #korean #fyp #trend #filter #foryourpage </content>
+    <link href="https://tiktok.com/@jinnytty0728/video/7306026271832722734" rel="alternate"/>
+    <published>2023-11-27T06:33:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jinnytty0728/video/7306441380996353311</id>
+    <title>whats your favorite? #effecthouseYearEnd #애교살필터 #조각상필터 #fypシ #fyp #trend #korean #filter </title>
+    <updated>2023-11-28T09:25:20+00:00</updated>
+    <content>whats your favorite? #effecthouseYearEnd #애교살필터 #조각상필터 #fypシ #fyp #trend #korean #filter </content>
+    <link href="https://tiktok.com/@jinnytty0728/video/7306441380996353311" rel="alternate"/>
+    <published>2023-11-28T09:25:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jinnytty0728/video/7307048702718364958</id>
+    <title>wow how did it know #filter #trend #dutch #europe #indian #funny #fyp </title>
+    <updated>2023-11-30T00:41:06+00:00</updated>
+    <content>wow how did it know #filter #trend #dutch #europe #indian #funny #fyp </content>
+    <link href="https://tiktok.com/@jinnytty0728/video/7307048702718364958" rel="alternate"/>
+    <published>2023-11-30T00:41:06+00:00</published>
+  </entry>
+</feed>
