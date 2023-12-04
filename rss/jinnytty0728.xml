@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jinnytty0728</id>
   <title>jinnytty0728 TikTok</title>
-  <updated>2023-12-01T09:49:36+00:00</updated>
+  <updated>2023-12-04T10:26:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://h-f-t.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jinnytty0728</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jinnytty0728/video/7304472925120384302</id>
-    <title>i like it #CapCut #pixar #fyp #foryou #trend #korea #korean </title>
-    <updated>2023-11-23T02:05:46+00:00</updated>
-    <content>i like it #CapCut #pixar #fyp #foryou #trend #korea #korean </content>
-    <link href="https://tiktok.com/@jinnytty0728/video/7304472925120384302" rel="alternate"/>
-    <published>2023-11-23T02:05:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jinnytty0728/video/7306026271832722734</id>
     <title>I agree  #korean #fyp #trend #filter #foryourpage </title>
@@ -51,5 +43,13 @@
     <content>tiktok filters be only showing facts #fyp #funny #rock #celebrity #korean #foryourpage </content>
     <link href="https://tiktok.com/@jinnytty0728/video/7307561124856204574" rel="alternate"/>
     <published>2023-12-01T09:49:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jinnytty0728/video/7308683673992187166</id>
+    <title>wtf did i just witness  #AI커스텀스타일 #christmas #filter #funny #fypシ #fpy #foryourpage #trending #trendingvideo </title>
+    <updated>2023-12-04T10:26:21+00:00</updated>
+    <content>wtf did i just witness  #AI커스텀스타일 #christmas #filter #funny #fypシ #fpy #foryourpage #trending #trendingvideo </content>
+    <link href="https://tiktok.com/@jinnytty0728/video/7308683673992187166" rel="alternate"/>
+    <published>2023-12-04T10:26:21+00:00</published>
   </entry>
 </feed>
